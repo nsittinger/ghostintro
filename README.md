@@ -9,7 +9,9 @@ Goal: submit a PR to this repo that adds your name and email address to the list
 | Name | Email |
 |---|---|
 | Seth Lilly | seth.lilly@gmail.com |
+| Jacob Ulrich | derp.jau@gmail.com  |
 | Nick Sittinger  | nsittinger@gmail.com  |
 | Kalene Csefalvay  | kalenenc@gmail.com  |
 | Omar Yusuf | omaryusuf@outlook.com   |
+| CJ Gossett | BILLPC2684@gmail.com |
 |   |   |
